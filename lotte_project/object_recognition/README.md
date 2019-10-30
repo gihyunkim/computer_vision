@@ -4,6 +4,8 @@ object_recognition for our own data using YOLO-slim
 
 참조github_2[[c++ darknet code]](https://github.com/AlexeyAB/darknet)
 
+참조 convert VOC label to YOLO label [[label]](https://github.com/yifanli8086/convert2Bo)
+
 implementation 동영상[[implement]](https://youtu.be/DQuO6h57ieo)  
 
 
