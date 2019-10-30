@@ -1,4 +1,4 @@
-object_recognition for out own data using YOLO-slim
+object_recognition for our own data using YOLO-slim
 
 참조github_1[[tensorflow-code]](https://github.com/YunYang1994/tensorflow-yolov3)  
 
