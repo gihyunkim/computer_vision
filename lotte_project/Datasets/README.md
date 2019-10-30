@@ -10,7 +10,7 @@ class_label[[class_label]](https://drive.google.com/open?id=1ZnCXG0tcTfiwjZyhJJH
 
 
 
-/*실제로 56000장의 image를 이용하였지만 용량관계상 sample image만을 업로드
+*\실제로 56000장의 image를 이용하였지만 용량관계상 sample image만을 업로드
 
 
 # Object Detection Datasets
