@@ -33,14 +33,17 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 | easydict       | 1.9     |
 
 ## 2. 파일 복사
+1. 오른쪽 링크에서 프로젝트 파일을 다운로드 합니다. [[Link]](https://drive.google.com/file/d/11HbV0sJBeWg8PV9_wDDMX6wjXunq_PTJ/view?usp=sharing)
 
-오른쪽 링크에서 압축파일을 다운로드합니다. [[Link]](https://drive.google.com/file/d/1cNmUbdONFoG3fmHxGyhcN5Fw7sR92c4g/view?usp=sharing)
+
+2. pretrained 파일을 다운로드합니다. [[Link]](https://drive.google.com/file/d/1H_PrMzsxTpmbI3ldQtDWCBZNZA5gV2Hj/view?usp=sharing)
 
 `Facenet` 폴더, `checkpoint ` 폴더, `yolov3_coco.pb`를 `Unmanned counter` 폴더에 복사해주세요.
 
 ## 3. How to run this model
 
 `Unmanned counter/obj/main_window.py` 파일을 실행하세요.
+**/* 상위 경로를 import 하기 위해 os.path.dirname(os.path.abspath(os.path.dirname(__file__)))을 import 사이에 추가해주세요.**
 
 초기 설정으로 테스트 영상으로 모델이 작동합니다.
 웹캠을 사용하시려면 `Unmanned counter/obj/showVideo.py`의 41번 라인을 참고하세요.
