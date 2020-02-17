@@ -40,6 +40,8 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 
 `Facenet` 폴더, `checkpoint ` 폴더, `yolov3_coco.pb`를 `Unmanned counter` 폴더에 복사해주세요.
 
+3. FaceNet github[[LINK]](https://github.com/davidsandberg/facenet/blob/master/contributed/face.py)
+
 ## 3. How to run this model
 
 `Unmanned counter/obj/main_window.py` 파일을 실행하세요.
@@ -48,4 +50,4 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 초기 설정으로 테스트 영상으로 모델이 작동합니다.
 웹캠을 사용하시려면 `Unmanned counter/obj/showVideo.py`의 41번 라인을 참고하세요.
 
-FaceNet github[[LINK]](https://github.com/davidsandberg/facenet/blob/master/contributed/face.py)
+
